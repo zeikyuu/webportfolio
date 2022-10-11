@@ -8,6 +8,8 @@ body, html {
 	height: 210%;
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
+
 }
 
 .BG {
@@ -70,6 +72,7 @@ nav {
 	color: black;
 	background-size: cover;
 	font-weight: bolder;
+	backface-visibility: ;
 }
 
 
