@@ -69,10 +69,10 @@ nav {
 
 .AB {
 	background-image: url(./images/cov.jpg);
-	color: black;
+	color: whitesmoke;
 	background-size: cover;
 	font-weight: bolder;
-	backface-visibility: ;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkgreen;
 }
 
 .text-shadow {
