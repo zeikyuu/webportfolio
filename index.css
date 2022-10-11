@@ -65,6 +65,14 @@ nav {
 }
 
 
+.AB {
+	background-image: url(./images/cov.jpg);
+	color: black;
+	background-size: cover;
+	font-weight: bolder;
+}
+
+
 
 
 
